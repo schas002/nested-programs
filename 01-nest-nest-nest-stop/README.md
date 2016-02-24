@@ -17,3 +17,7 @@
 ## Instead of conclusion
 
 Lowest score **wins**. Good Luck!
+
+## Answer Leadboard
+
+1. [zyabin101-1](zyabin101-1.py) Python-Ruby - 10
