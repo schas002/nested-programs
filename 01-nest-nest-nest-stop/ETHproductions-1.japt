@@ -1,4 +1,12 @@
 // Japt > JavaScript, 3 languages, 18 bytes
 // -5---10----5---20----5---30----5---40----5---50----5---60--64
 
-`pÎC"Ã
+`pÎC"Ã0t('STOP!')"
+
+// Note: Japt does not support comments, and the 0 represents a null byte; use this permalink to test it:
+// http://ethproductions.github.io/japt/?v=master&code=YHDOQyLDAHQoJ1NUT1AhJyki&input=
+
+// Supported languages:
+// Japt <http://ethproductions.github.io/japt/> (1)
+// Python (2)
+// JavaScript (3)
