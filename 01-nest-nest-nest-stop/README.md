@@ -20,5 +20,6 @@ Lowest score **wins**. Good Luck!
 
 ## Answer Leadboard
 
-1. [Conor O'Brien-1](Conor-OBrien-1.py) Python-[Jolf](http://esolangs.org/wiki/Jolf) - 6.2
-2. [zyabin101-1](zyabin101-1.py) Python-Ruby - ~~10~~ 9.67
+1. [ETHproductions-1](ETHproductions-1.japt) [Japt](http://esolangs.org/wiki/Japt)-JavaScript - 6
+2. [Conor O'Brien-1](Conor-OBrien-1.py) Python-[Jolf](http://esolangs.org/wiki/Jolf) - 6.2
+3. [zyabin101-1](zyabin101-1.py) Python-Ruby - ~~10~~ 9.67
