@@ -1,0 +1,10 @@
+e# CJam > Japt, 4 languages, 11 bytes
+e# -5---10----5---20----5---30----5---40----5---50----5---60--64
+
+"'`STOP!'"p
+
+e# Full list of supported languages:
+e# CJam <http://cjam.aditsu.net> (1)
+e# Pyth <http://pyth.herokuapp.com> (2)
+e# GolfScript <http://golfscript.apphb.com> (3)
+e# Japt <http://ethproductions.github.io/japt> (4)
