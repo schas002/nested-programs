@@ -20,3 +20,4 @@ Lowest score **wins**. Good Luck!
 
 ## Answer Leadboard
 
+1. [zyabin101-1](zyabin101-1.rb) Ruby-Python - 22.5
