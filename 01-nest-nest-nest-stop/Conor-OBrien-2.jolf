@@ -1,0 +1,10 @@
+// jolf -> ruby -> python 2, score 5
+
+// permalink: http://conorobrien-foxx.github.io/Jolf/#code=InDigJjOngFLwo7igJnOnhFgwpFcIuKAmA
+
+"p‘ΞK’Ξ`\"‘
+
+// 15 bytes encoded in ISO-8859-7
+// jolf: p"print'STOP!'"
+// ruby: print'STOP!'
+// python 2: STOP!
